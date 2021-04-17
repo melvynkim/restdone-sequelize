@@ -1,0 +1,38 @@
+{
+    "name": "restdone-sequelize",
+    "version": "0.3.2",
+    "description": "Sequelize for Restdone",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/melvynkim/restdone-sequelize.git"
+    },
+    "keywords": [
+        "node.js",
+        "rest",
+        "restful",
+        "restdone",
+        "sequelize",
+        "mysql",
+        "postgres",
+        "postgresql",
+        "mssql",
+        "oracle"
+    ],
+    "dependencies": {
+        "http-status-node": "^0.0.1",
+        "lodash": "^4.17.21"
+    },
+    "author": {
+        "name": "Melvyn Kim"
+    },
+    "license": "MIT",
+    "readmeFilename": "README.md",
+    "bugs": {
+        "url": "https://github.com/melvynkim/restdone-sequelize/issues"
+    },
+    "homepage": "https://github.com/melvynkim/restdone-sequelize"
+}
