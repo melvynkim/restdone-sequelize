@@ -23,7 +23,7 @@
         "oracle"
     ],
     "dependencies": {
-        "http-status-node": "^0.0.1",
+        "http-status-node": "0.0.1",
         "lodash": "^4.17.21"
     },
     "author": {
